@@ -1,3 +1,31 @@
+# Proyecto de la Ruta de React Native
+
+## Pokedex App
+
+### Nombre del desarrollador:
+Instruido por: 
+- David Joaquin Ramirez Muñoz
+- Carné: 1904002003
+- Curso: Aplicacion Moviles 2
+- Universidad Montesquieu
+### Desripccion
+Pokedex App, permite ver mas de 1000 pokemons, buscar entre ellos para conocer mas de ellos
+
+## Nota (Configuraciones)
+### Api
+- (https://pokeapi.co/docs/v2)
+- (https://pokeapi.co/api/v2)
+### Comandos:
+- `npm install react-native-screens react-native-safe-area-context`
+- `npm install @react-navigation/native`
+- `npm install @react-navigation/native-stack`
+- `npm install @react-navigation/bottom-tabs`
+- `npm install react-native-vector-icons`
+- `npm install lodash`
+- `npm install formik`
+- `npm install yup`
+- `npm install @react-native-async-storage/async-storage`
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
