@@ -16,16 +16,16 @@ Pokedex App, permite ver mas de 1000 pokemons, buscar entre ellos para conocer m
 - (https://pokeapi.co/docs/v2)
 - (https://pokeapi.co/api/v2)
 ### Comandos:
-- `npm install react-native-screens react-native-safe-area-context`
-- `npm install @react-navigation/native`
-- `npm install @react-navigation/native-stack`
-- `npm install @react-navigation/bottom-tabs`
-- `npm install react-native-vector-icons`
-- `npm install lodash`
-- `npm install formik`
-- `npm install yup`
-- `npm install @react-native-async-storage/async-storage`
-
+- `npm install react-native-screens react-native-safe-area-context --force`
+- `npm install @react-navigation/native --force`
+- `npm install @react-navigation/native-stack --force`
+- `npm install @react-navigation/bottom-tabs --force`
+- `npm install react-native-vector-icons --force`
+- `npm install lodash --force`
+- `npm install formik --force`
+- `npm install yup --force`
+- `npm install @react-native-async-storage/async-storage --force`
+## Iniciando
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
